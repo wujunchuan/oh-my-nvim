@@ -25,7 +25,7 @@
 - [bufdelete](https://github.com/famiu/bufdelete.nvim)
 - [aerial](https://github.com/stevearc/aerial.nvim)
 - [neovim-session-manager](https://github.com/Shatur/neovim-session-manager)
-- [null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim)
+- [none-ls](https://github.com/nvimtools/none-ls.nvim) (Community fork of null-ls)
 - [noice](https://github.com/folke/noice.nvim)
 - [alpha-nvim](https://github.com/goolord/alpha-nvim)
 - [todo-comments.nvim](https://github.com/folke/todo-comments.nvim)
