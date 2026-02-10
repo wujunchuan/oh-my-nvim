@@ -24,6 +24,7 @@ require("lazy").setup({
 		{ import = "languages" },
 		{ import = "my_plugins" },
 	},
+	concurrency = 1,
 	ui = {
 		border = "rounded",
 	},

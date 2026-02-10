@@ -2,8 +2,9 @@ return {
 	-- Syntax highlighting
 	{
 		"nvim-treesitter/nvim-treesitter",
+		build = ":TSUpdate",
 		config = function()
-			require("nvim-treesitter.configs").setup({
+			require("nvim-treesitter").setup({
 				indent = {
 					enable = true,
 					disable = {},
