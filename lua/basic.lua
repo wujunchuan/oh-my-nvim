@@ -6,6 +6,7 @@ vim.opt.updatetime = 200
 
 -- Basic settings
 vim.opt.encoding = "utf-8"
+vim.opt.clipboard = "unnamedplus"
 vim.opt.backspace = "indent,eol,start" -- backspace works on every char in insert mode
 vim.opt.completeopt = "menuone,noselect"
 vim.opt.history = 1000
