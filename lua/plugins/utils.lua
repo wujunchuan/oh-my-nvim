@@ -101,4 +101,5 @@ return {
 			exclude = {}, -- exclude these filetypes
 		},
 	},
+	{ "rhysd/clever-f.vim" },
 }
